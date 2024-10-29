@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://rojpatigdas.github.io/sample-resume/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rojpatigdas&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojpatigdas&show_icons=true&theme=radical" />
 </a>
 <a href="https://rojpatigdas.github.io/sample-resume/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojpatigdas&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojpatigdas&layout=compact&theme=radical" />
 </a>
 </div>
 
