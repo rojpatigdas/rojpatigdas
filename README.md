@@ -48,3 +48,24 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojpatigdas&layout=compact&theme=radical" />
 </a>
 </div>
+
+<div>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/trouble-trouble-the-cat.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/trouble-trouble-the-cat.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/trouble-trouble-the-cat.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/trouble-trouble-the-cat.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/trouble-trouble-the-cat.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/trouble-trouble-the-cat.gif"/>
+</a>
+</div>
