@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 <a href="https://rojpatigdas.github.io/sample-resume/">
   <img height=100 align="center" src="./assets/omen-valorant.gif"/>
 </a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="right" src="./assets/trouble-trouble-the-cat.gif"/>
+</a>
 
 </div>
 
@@ -35,10 +38,5 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<div>
 
 
-<a href="https://rojpatigdas.github.io/sample-resume/">
-  <img height=100 align="left" src="./assets/trouble-trouble-the-cat.gif"/>
-</a>
-</div>
