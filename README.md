@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img id="me" src="./assets/meme.gif"/>
-<img id="me" src="./assets/omen-valorant.gif"/>
+<!-- <img src="./assets/meme.gif"/> -->
+<img align="center" src="./assets/omen-valorant.gif"/>
 <div>
 <a href="https://rojpatigdas.github.io/sample-resume/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rojpatigdas&show_icons=true&theme=radical" />
