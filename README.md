@@ -22,7 +22,21 @@ Here are some ideas to get you started:
 <a href="https://rojpatigdas.github.io/sample-resume/">
   <img height=100 align="right" src="./assets/omen-valorant.gif"/>
 </a>
-
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
+</a>
 </div>
 
 
