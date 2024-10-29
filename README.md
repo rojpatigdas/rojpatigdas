@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://rojpatigdas.github.io/sample-resume/">
-  <img height=100 align="left" src="./assets/omen-valorant.gif"/>
+  <img height=100 align="right" src="./assets/omen-valorant.gif"/>
 </a>
 
 </div>
