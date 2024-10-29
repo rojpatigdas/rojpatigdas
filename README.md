@@ -20,23 +20,9 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://rojpatigdas.github.io/sample-resume/">
-  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
+  <img height=100 align="left" src="./assets/omen-valorant.gif"/>
 </a>
-<a href="https://rojpatigdas.github.io/sample-resume/">
-  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
-</a>
-<a href="https://rojpatigdas.github.io/sample-resume/">
-  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
-</a>
-<a href="https://rojpatigdas.github.io/sample-resume/">
-  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
-</a>
-<a href="https://rojpatigdas.github.io/sample-resume/">
-  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
-</a>
-<a href="https://rojpatigdas.github.io/sample-resume/">
-  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
-</a>
+
 </div>
 
 
@@ -50,9 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-<a href="https://rojpatigdas.github.io/sample-resume/">
-  <img height=100 align="right" src="./assets/trouble-trouble-the-cat.gif"/>
-</a>
+
 
 <a href="https://rojpatigdas.github.io/sample-resume/">
   <img height=100 align="left" src="./assets/trouble-trouble-the-cat.gif"/>
