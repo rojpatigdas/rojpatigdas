@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <link rel="stylesheet" href="./style.css">
 
 <style>
-  
+  #me{
+    height: 10px;
+    width: 10px;
+ }
 </style>
 <img id="me" src="./assets/Roj.png"/>
 <a href="https://rojpatigdas.github.io/sample-resume/">
