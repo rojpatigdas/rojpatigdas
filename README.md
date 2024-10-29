@@ -28,7 +28,18 @@ Here are some ideas to get you started:
 <a href="https://rojpatigdas.github.io/sample-resume/">
   <img height=100 align="center" src="./assets/omen-valorant.gif"/>
 </a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
+</a>
+<a href="https://rojpatigdas.github.io/sample-resume/">
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
+</a>
 </div>
+
+
 <div>
 <a href="https://rojpatigdas.github.io/sample-resume/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojpatigdas&show_icons=true&theme=radical" />
