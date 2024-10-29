@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://rojpatigdas.github.io/sample-resume/">
-  <img align="center" src="./assets/omen-valorant.gif"/>
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
 </a>
 <a href="https://rojpatigdas.github.io/sample-resume/">
-  <img align="center" src="./assets/omen-valorant.gif"/>
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
 </a>
 <a href="https://rojpatigdas.github.io/sample-resume/">
-  <img align="center" src="./assets/omen-valorant.gif"/>
+  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
 </a>
 </div>
 <div>
