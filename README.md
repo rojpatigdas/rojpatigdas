@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<link rel="stylesheet" href="./style.css">
 
-<style>
-  #me{
-    height: 10px;
-    width: 10px;
- }
-</style>
 <img id="me" src="./assets/Roj.png"/>
 <a href="https://rojpatigdas.github.io/sample-resume/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rojpatigdas&show_icons=true&theme=radical" />
