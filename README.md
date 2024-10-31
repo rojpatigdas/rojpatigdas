@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://rojpatigdas.github.io/sample-resume/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojpatigdas&theme=radical" />
+  <img align="center" target="_blank" src="https://github-readme-stats.vercel.app/api?username=rojpatigdas&theme=radical" />
 </a>
 <a href="https://rojpatigdas.github.io/sample-resume/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojpatigdas&layout=compact&theme=radical" />
