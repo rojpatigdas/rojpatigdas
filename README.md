@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <!-- <img src="./assets/meme.gif"/> -->
 
 <div>
-<a target="_blank" href="https://rojpatigdas.github.io/sample-resume/">
+<a href="https://rojpatigdas.github.io/sample-resume/" target="_blank">
   <img height=100 align="center" src="./assets/omen-valorant.gif"/>
 </a>
-<a target="_blank" href="https://rojpatigdas.github.io/sample-resume/">
+<a href="https://rojpatigdas.github.io/sample-resume/" target="_blank">
   <img height=100 align="right" src="./assets/trouble-trouble-the-cat.gif"/>
 </a>
 
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 
 <div>
-<a target="_blank" href="https://rojpatigdas.github.io/sample-resume/">
+<a href="https://rojpatigdas.github.io/sample-resume/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojpatigdas&theme=radical" />
 </a>
-<a target="_blank" href="https://rojpatigdas.github.io/sample-resume/">
+<a href="https://rojpatigdas.github.io/sample-resume/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojpatigdas&layout=compact&theme=radical" />
 </a>
 </div>
