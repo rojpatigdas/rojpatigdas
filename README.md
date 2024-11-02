@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="./assets/meme.gif"/> -->
 
-<div>
+<div align="center">
 <a href="https://rojpatigdas.github.io/sample-resume/" target="_blank">
   <img height=100 align="center" src="./assets/wingman-wiggle.gif"/>
 </a>
