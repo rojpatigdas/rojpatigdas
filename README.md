@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://rojpatigdas.github.io/sample-resume/" target="_blank">
-  <img height=100 align="center" src="./assets/omen-valorant.gif"/>
+  <img height=100 align="center" src="./assets/wingman-wiggle.gif"/>
 </a>
 <a href="https://rojpatigdas.github.io/sample-resume/" target="_blank">
-  <img height=100 align="right" src="./assets/trouble-trouble-the-cat.gif"/>
+  <img height=100 align="right" src="./assets/wingman-wiggle.png"/>
 </a>
 
 </div>
