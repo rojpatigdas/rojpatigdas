@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- <img src="./assets/meme.gif"/> -->
 
 <div align="center">
-<a href="https://rojpatigdas.github.io/sample-resume/" target="_blank">
+<a href="https://rojpatigdas.github.io/my-resume/" target="_blank">
   <img height=100 align="center" src="./assets/wingman-wiggle.gif"/>
 </a>
 
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 
 <div>
-<a href="https://rojpatigdas.github.io/sample-resume/" target="_blank">
+<a href="https://rojpatigdas.github.io/my-resume/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojpatigdas&theme=radical" />
 </a>
-<a href="https://rojpatigdas.github.io/sample-resume/" target="_blank">
+<a href="https://rojpatigdas.github.io/my-resume/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojpatigdas&layout=compact&theme=radical" />
 </a>
 </div>
