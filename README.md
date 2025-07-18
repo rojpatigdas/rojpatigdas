@@ -10,7 +10,7 @@
 ---
 
 🔧 **What I Do**
-- ⚡ Automate business workflows with **Zapier**, **Make**, and **Google Apps Script**
+- ⚡ Automate business workflows with **Zapier**, **Make**, **n8n**, and **Google Apps Script**
 - 🛠️ Build and maintain tools in **PHP (WHMCS)** and **JavaScript**
 - 🔌 Integrate APIs (Copper CRM, Asana, Airtable, and more)
 - 🌐 Develop responsive web tools with **HTML, CSS, JS**
@@ -34,6 +34,6 @@
 ```yaml
 Languages:    JavaScript, PHP, Python
 Frameworks:   Apps Script, Node.js
-Tools:        Zapier, Make, AppSheet, WHMCS
+Tools:        Zapier, Make, n8n, AppSheet, WHMCS
 Databases:    MySQL, Firebase
 Cloud:        Google Cloud, REST APIs
