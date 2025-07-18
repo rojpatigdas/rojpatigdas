@@ -13,23 +13,19 @@
 - ⚡ Automate business workflows with **Zapier**, **Make**, and **Google Apps Script**
 - 🛠️ Build and maintain tools in **PHP (WHMCS)** and **JavaScript**
 - 🔌 Integrate APIs (Copper CRM, Asana, Airtable, and more)
-- 🌐 Develop responsive websites with **HTML, CSS, JavaScript**
+- 🌐 Develop responsive web tools with **HTML, CSS, JS**
 
 ---
 
 📦 **Featured Projects**
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [WHMCS Automation Module](#) | Custom PHP module for billing automation | PHP, MySQL |
-| [Voucher Redemption System](#) | Online voucher system with QR and redemption logic | AppSheet, Apps Script |
-| [Dog Bite Heatmap (Thesis)](#) | Predictive model for dog bites in Davao City | Python, CNN, QGIS |
-
----
-
-💼 **Work Experience**
-- **Workflow Engineer** @ [Company Name] (YYYY–YYYY)  
-  Automated internal processes, developed WHMCS modules, and integrated 3rd-party systems.
+| Project | Description |
+|--------|-------------|
+| 🔹 [Email Summarizer Project](https://github.com/rojpatigdas/email-summarizer-project) | Automatically parses and summarizes emails into bullet points |
+| 🔹 [Daily Reminder Message](https://github.com/rojpatigdas/daily-reminder-message) | Sends automated daily Slack reminders using Apps Script |
+| 🔹 [KPI Automation](https://github.com/rojpatigdas/kpi-automation) | Gathers and reports KPIs from multiple sources via scripts |
+| 🔹 [Team Request Project](https://github.com/rojpatigdas/team-request-project) | Handles and routes team task requests via Google Workspace |
+| 🔹 [WHMCS Down Notification](https://github.com/rojpatigdas/whmcs-down-notification) | Alerts when WHMCS goes down or becomes unresponsive |
 
 ---
 
@@ -39,4 +35,4 @@ Languages:    JavaScript, PHP, Python
 Frameworks:   Apps Script, Node.js
 Tools:        Zapier, Make, AppSheet, WHMCS
 Databases:    MySQL, Firebase
-Cloud:        Google Cloud, Airtable API, REST APIs
+Cloud:        Google Cloud, REST APIs
