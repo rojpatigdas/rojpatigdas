@@ -27,6 +27,7 @@
 | 🔹 [KPI Automation](https://github.com/rojpatigdas/kpi-automation) | Gathers and reports KPIs from multiple sources via scripts |
 | 🔹 [Team Request Project](https://github.com/rojpatigdas/team-request-project) | Handles and routes team task requests via Google Workspace |
 | 🔹 [WHMCS Down Notification](https://github.com/rojpatigdas/whmcs-down-notification) | Alerts when WHMCS goes down or becomes unresponsive |
+| 🔹 [Copper Data to Asana](https://github.com/rojpatigdas/copper-data-to-asana) | Pushes Copper CRM opportunity data into Asana tasks automatically |
 
 ---
 
@@ -37,8 +38,3 @@ Frameworks:   Apps Script, Node.js
 Tools:        Zapier, Make, n8n, AppSheet, WHMCS
 Databases:    MySQL, Firebase
 Cloud:        Google Cloud, REST APIs
-
----
-
-
-
