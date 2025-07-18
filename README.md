@@ -41,15 +41,4 @@ Cloud:        Google Cloud, REST APIs
 ---
 
 
- GitHub Stats
 
-<div> <a href="https://rojpatigdas.github.io/my-resume/" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rojpatigdas&theme=radical" /> </a> <a href="https://rojpatigdas.github.io/my-resume/" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojpatigdas&layout=compact&theme=radical" /> </a> </div>
-📫 Let's Connect
-
-✉️ Email: patigdasr@gmail.com
-
-🌐 Portfolio: rojpatigdas.github.io/my-resume
-
-🔗 GitHub: github.com/rojpatigdas
-
-⚡ “I build solutions that remove repetitive work and create room for growth.”
