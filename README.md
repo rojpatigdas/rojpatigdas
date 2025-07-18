@@ -21,6 +21,7 @@
 
 | Project | Description |
 |--------|-------------|
+| 🔹 [QR Code Generator](https://rojpatigdas.github.io/qr-generator-page/) | Free online tool to convert text and links into downloadable QR codes |
 | 🔹 [Email Summarizer Project](https://github.com/rojpatigdas/email-summarizer-project) | Automatically parses and summarizes emails into bullet points |
 | 🔹 [Daily Reminder Message](https://github.com/rojpatigdas/daily-reminder-message) | Sends automated daily Slack reminders using Apps Script |
 | 🔹 [KPI Automation](https://github.com/rojpatigdas/kpi-automation) | Gathers and reports KPIs from multiple sources via scripts |
