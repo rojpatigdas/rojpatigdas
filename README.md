@@ -28,6 +28,7 @@
 | 🔹 [Team Request Project](https://github.com/rojpatigdas/team-request-project) | Handles and routes team task requests via Google Workspace |
 | 🔹 [WHMCS Down Notification](https://github.com/rojpatigdas/whmcs-down-notification) | Alerts when WHMCS goes down or becomes unresponsive |
 | 🔹 [Copper Data to Asana](https://github.com/rojpatigdas/copper-data-to-asana) | Pushes Copper CRM opportunity data into Asana tasks automatically |
+| 🔹 [Discord Scheduler Bot](https://github.com/rojpatigdas/discord-scheduler-bot) | A custom slash-command bot that schedules Google Calendar events via n8n and posts details back to Discord |
 
 ---
 
