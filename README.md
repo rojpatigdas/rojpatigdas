@@ -3,8 +3,7 @@
 
 <div align="center">
   <a href="https://rojpatigdas.github.io/my-resume/" target="_blank">
-    
-    <img height="100" align="center" src="./assets/trouble-trouble-the-cat.gif"/>
+     <img height="100" align="center" src="./assets/wingman-wiggle.gif"/>
   </a>
 </div>
 
